@@ -32,7 +32,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
-TARGETHOST = "cgvprlfcsps008.kmhp.com"
+TARGETHOST = "neusse.com"
 CSVFILE = "unshed.csv"
 
 
